@@ -1,0 +1,15 @@
+D:\coolyeah\Semester 3\pbo\tugas pbo pr\tugas pbo pr\bin\Debug\net6.0\tugas pbo pr.exe
+D:\coolyeah\Semester 3\pbo\tugas pbo pr\tugas pbo pr\bin\Debug\net6.0\tugas pbo pr.deps.json
+D:\coolyeah\Semester 3\pbo\tugas pbo pr\tugas pbo pr\bin\Debug\net6.0\tugas pbo pr.runtimeconfig.json
+D:\coolyeah\Semester 3\pbo\tugas pbo pr\tugas pbo pr\bin\Debug\net6.0\tugas pbo pr.dll
+D:\coolyeah\Semester 3\pbo\tugas pbo pr\tugas pbo pr\bin\Debug\net6.0\tugas pbo pr.pdb
+D:\coolyeah\Semester 3\pbo\tugas pbo pr\tugas pbo pr\obj\Debug\net6.0\tugas pbo pr.csproj.AssemblyReference.cache
+D:\coolyeah\Semester 3\pbo\tugas pbo pr\tugas pbo pr\obj\Debug\net6.0\tugas pbo pr.GeneratedMSBuildEditorConfig.editorconfig
+D:\coolyeah\Semester 3\pbo\tugas pbo pr\tugas pbo pr\obj\Debug\net6.0\tugas pbo pr.AssemblyInfoInputs.cache
+D:\coolyeah\Semester 3\pbo\tugas pbo pr\tugas pbo pr\obj\Debug\net6.0\tugas pbo pr.AssemblyInfo.cs
+D:\coolyeah\Semester 3\pbo\tugas pbo pr\tugas pbo pr\obj\Debug\net6.0\tugas pbo pr.csproj.CoreCompileInputs.cache
+D:\coolyeah\Semester 3\pbo\tugas pbo pr\tugas pbo pr\obj\Debug\net6.0\tugas pbo pr.dll
+D:\coolyeah\Semester 3\pbo\tugas pbo pr\tugas pbo pr\obj\Debug\net6.0\refint\tugas pbo pr.dll
+D:\coolyeah\Semester 3\pbo\tugas pbo pr\tugas pbo pr\obj\Debug\net6.0\tugas pbo pr.pdb
+D:\coolyeah\Semester 3\pbo\tugas pbo pr\tugas pbo pr\obj\Debug\net6.0\tugas pbo pr.genruntimeconfig.cache
+D:\coolyeah\Semester 3\pbo\tugas pbo pr\tugas pbo pr\obj\Debug\net6.0\ref\tugas pbo pr.dll
